@@ -19,6 +19,11 @@
 
 <p align="center">
   <a href="../../releases/latest"><img src="https://img.shields.io/badge/⬇️_СКАЧАТЬ_ПОСЛЕДНЮЮ_ВЕРСИЮ-24292f?style=for-the-badge" alt="Скачать"></a>
+  <a href="../../stargazers"><img src="https://img.shields.io/badge/⭐_ПОСТАВИТЬ_ЗВЕЗДУ-e3b341?style=for-the-badge&logoColor=black" alt="Звезда"></a>
+</p>
+
+<p align="center">
+  <sub>Программа бесплатная. Если выручила — жмите ⭐ вверху справа, это лучшая благодарность.</sub>
 </p>
 
 ---
@@ -167,7 +172,7 @@ utf-8, cp1251, koi8-r, cp866, так что старые файлы из «Бл�
 <table>
 <tr><td><b>SHA-256</b></td><td><code>0bad3020fe7e020bfaf3b4a11c34764ef31ee541c17a57baff60d63af0d3d5ac</code></td></tr>
 <tr><td><b>Размер</b></td><td>19 125 722 байта</td></tr>
-<tr><td><b>Отчёт</b></td><td><a href="https://www.virustotal.com/gui/file/0bad3020fe7e020bfaf3b4a11c34764ef31ee541c17a57baff60d63af0d3d5ac">VirusTotal</a></td></tr>
+<tr><td><b>Отчёт</b></td><td><a href="https://www.virustotal.com/gui/url-analysis/u-ac26474caceb617a1831f88c92daa63e6f24ff6add48a77a45fa6e23de5da545-bd785098">VirusTotal</a></td></tr>
 </table>
 
 Проверить у себя — правый клик по файлу → «Открыть в терминале» и команда
@@ -348,6 +353,25 @@ utf-8, cp1251, koi8-r, cp866, так что старые файлы из «Бл�
 
 ---
 
+## 💎 Поддержать автора
+
+Программа бесплатная и останется такой. Но если она сэкономила вам вечер-другой,
+поддержку можно закинуть в телеграм — и это не в одну сторону:
+
+<table>
+<tr>
+  <td width="130" align="center"><h3>от 250 ₽</h3></td>
+  <td><b>Оригинал кода в подарок.</b> Присылаю исходники программы целиком —
+  собирайте сами, правьте под себя, дописывайте что нужно.</td>
+</tr>
+</table>
+
+Написать за реквизитами и кодом: **[@licht_re](https://t.me/licht_re)**.
+
+И поставьте ⭐ **звезду** репозиторию — это бесплатно, а видно сразу.
+
+---
+
 ## 💬 Поддержка
 
 <p align="center">
@@ -360,6 +384,10 @@ utf-8, cp1251, koi8-r, cp866, так что старые файлы из «Бл�
 Вопросы, баги, идеи и «а можно ещё вот так?» — пишите.<br>
 Если что-то сломалось, приложите текст из <b>«Журнала»</b> внизу окна:<br>
 по нему сразу видно, на каком шаге всё встало.
+</p>
+
+<p align="center">
+  <a href="../../stargazers"><img src="https://img.shields.io/badge/⭐_Понравилось%3F_Поставьте_звезду-e3b341?style=for-the-badge&logoColor=black" alt="Поставьте звезду"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="">
